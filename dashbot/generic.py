@@ -20,7 +20,7 @@ class generic():
         self.apiKey=apiKey
         self.debug=debug
         self.printErrors=printErrors
-        self.platform='generic'
+        self.platform='facebook'
         self.version = __version__
         self.source = 'pip'
         
